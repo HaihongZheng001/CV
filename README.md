@@ -1,3 +1,3 @@
 # CV
 
-###02/12/2023 Basic HTML + Table + Form
+02/12/2023 Basic HTML + Table + Form
